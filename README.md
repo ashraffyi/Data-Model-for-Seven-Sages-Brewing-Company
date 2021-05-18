@@ -1,5 +1,5 @@
 <h1> Create a Data Model for Seven Sages Brewing Company
-<br />Data Analysis and Visualization with Power BI 
+<br />Data Analysis and Visualization with Power BI Nanodegree
 </h1>
 Author: Ashraf Hussain
 <br />Date: May 11, 2021
